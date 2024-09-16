@@ -105,7 +105,6 @@ public class Lesson_1 {
         } else {
             return false;
         }
-
     }
 
     // 6-ой метод
