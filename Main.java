@@ -6,7 +6,6 @@ public class Main {
 
         employee1.info();
 
-
         //Задание №2
         Employee[] employeeArray = new Employee[5];
         employeeArray[0] = new Employee("Петров Петр Петрович", "Менеджер",
