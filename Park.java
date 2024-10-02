@@ -1,5 +1,3 @@
-package Lesson_2;
-
 public class Park {
 
     //Задание №3
