@@ -1,4 +1,4 @@
-package Lesson_3.Geometric_Shapes;
+package Geometric_Shapes;
 
 interface Shape {
     double calculateArea();
