@@ -1,4 +1,4 @@
-package Lesson_3.Geometric_Shapes;
+package Geometric_Shapes;
 
 public class Main {
     public static void main(String[] args) {
