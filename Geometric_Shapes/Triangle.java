@@ -1,4 +1,4 @@
-package Lesson_3.Geometric_Shapes;
+package Geometric_Shapes;
 
 public class Triangle implements Shape {
     private double sideA;
