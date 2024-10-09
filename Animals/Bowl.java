@@ -1,4 +1,4 @@
-package Lesson_3.Animals;
+package Animals;
 
 public class Bowl {
 
