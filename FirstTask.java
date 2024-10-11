@@ -1,5 +1,3 @@
-package Lesson_5;
-
 import java.util.HashMap;
 import java.util.Map;
 
@@ -24,9 +22,5 @@ public class FirstTask {
         for (Map.Entry<String, Integer> map : wordCount.entrySet()) {
             System.out.println(map.getKey() + ": " + map.getValue());
         }
-
-
     }
-
-
 }
