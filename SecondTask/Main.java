@@ -1,4 +1,4 @@
-package Lesson_5.SecondTask;
+package SecondTask;
 
 public class Main {
 
@@ -19,6 +19,5 @@ public class Main {
         telephoneBook.get("Иванов");
         telephoneBook.get("Кузнецов");
         telephoneBook.get("Смирнов");
-
     }
 }
