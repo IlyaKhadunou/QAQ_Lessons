@@ -1,4 +1,4 @@
-package Lesson_5.SecondTask;
+package SecondTask;
 
 import java.util.HashMap;
 import java.util.Map;
