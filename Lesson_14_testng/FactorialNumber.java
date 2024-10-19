@@ -1,4 +1,4 @@
-package Lesson_14_junit_5;
+package Lesson_14_testng;
 
 public class FactorialNumber {
     public static long getFactorialNumber(int numb){
@@ -17,3 +17,4 @@ public class FactorialNumber {
         System.out.println(getFactorialNumber(25));
     }
 }
+
