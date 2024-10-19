@@ -12,9 +12,4 @@ public class FactorialNumber {
         }
         return result;
     }
-
-    public static void main(String[] args) {
-        System.out.println(getFactorialNumber(25));
-    }
 }
-
