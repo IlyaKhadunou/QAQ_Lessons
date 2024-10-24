@@ -29,7 +29,6 @@ public class TestMtsBy_Lesson_15 {
             if (buttonCookies.isDisplayed() && buttonCookies.isEnabled()) {
                 buttonCookies.click();
             }
-
         } catch (Exception e) {
             e.printStackTrace();
             System.out.println("Ошибка настройки WebDriver: " + e.getMessage());
